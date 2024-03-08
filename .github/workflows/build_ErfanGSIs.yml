@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://miuiver.com/thyme-v14-0-23-4-17/
+  ROM_URL: https://cdn-ota.azureedge.net/V14.0.6.0.TGACNXM/miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
